@@ -1,0 +1,99 @@
+# ============================================================
+#  GRUB CUSTOM BOOTLOADER — Cyberpunk Porsche Theme
+#  "SELECT STARTUP ROUTE"
+# ============================================================
+
+# --- Desktop Background ---
+desktop-image: "backdrop_2.png"
+desktop-color: "#000000"
+
+# --- Title ---
+title-text: "SELECT STARTUP ROUTE"
+title-font: "Rajdhani Regular 24"
+title-color: "#CCCCCC"
+
+# --- Terminal (fallback console) ---
+terminal-font: "Rajdhani Regular 24"
+
+# ============================================================
+#  BOOT MENU
+#  Positioned on the left side, matching the mockup layout
+# ============================================================
+
++ boot_menu {
+    left = 4%
+    top = 28%
+    width = 35%
+    height = 50%
+
+    # --- Fonts ---
+    item_font = "Rajdhani Regular 24"
+    selected_item_font = "Rajdhani Regular 24"
+
+    # --- Colors ---
+    # Make text invisible so only the car plate icons are shown
+    # (GRUB 2 doesn't easily allow hiding text, so we make it blend in)
+    item_color = "#000000"
+    selected_item_color = "#000000"
+
+    # --- Item Layout ---
+    # Car plates are ~440x96, so we space them out nicely
+    item_height = 104
+    item_padding = 4
+    item_spacing = 16
+
+    # --- Icons (These are our car plates!) ---
+    icon_width = 440
+    icon_height = 96
+
+
+
+    # --- Scrollbar ---
+    scrollbar = false
+}
+
+# ============================================================
+#  COUNTDOWN / TIMEOUT PROGRESS BAR
+# ============================================================
+
++ progress_bar {
+    id = "__timeout__"
+    left = 60%
+    top = 90%
+    width = 25%
+    height = 6
+
+    fg_color = "#E83030"
+    bg_color = "#1A1A1A"
+    border_color = "#333333"
+
+    text_color = "#FFFFFF"
+    font = "Rajdhani Regular 24"
+    text = "%d seconds"
+}
+
+# ============================================================
+#  LABELS — Branding & navigation hints
+# ============================================================
+
++ label {
+    left = 75%
+    top = 85%
+    width = 22%
+    height = 30
+    text = "GRUB CUSTOM BOOTLOADER"
+    font = "Rajdhani Regular 24"
+    color = "#E83030"
+    align = "right"
+}
+
++ label {
+    left = 55%
+    top = 95%
+    width = 42%
+    height = 28
+    text = "Arrow keys: navigate  |  Enter: select"
+    font = "Rajdhani Regular 24"
+    color = "#555555"
+    align = "right"
+}

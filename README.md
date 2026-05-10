@@ -1,2 +1,2 @@
 # Grub_theme
-cool car theme for grub bootloader 
+Cool Cyberpunk 2077/ JDM car-themed GRUB bootloader
