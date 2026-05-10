@@ -54,13 +54,11 @@ terminal-font: "Rajdhani Regular 24"
     # --- Icons (These are our car plates!) ---
     icon_width = 450
     icon_height = 96
-    icon_source = "car_plates/textured"
-
+    icon_source = "icons"
+ 
     # --- Selected Item Highlight (red glow border) ---
     selected_item_pixmap_style = "select_glow/select_*.png"
 
-    # --- Menu Background ---
-    menu_pixmap_style = "menu_bg/bg_*.png"
 
     # --- Scrollbar ---
     scrollbar = false
