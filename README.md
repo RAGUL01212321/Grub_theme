@@ -28,3 +28,7 @@ Get a glimpse of the sleek design with custom car plate icons, and a variety of 
 ## Installation
 
 *(To be added - e.g., how to copy this folder to `/boot/grub/themes/` and update `/etc/default/grub`)*
+
+
+## Note
+This is just the first version, ill add more and change a lot of things. If you have any suggestions or ideas, please feel free to share them with me.
