@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ Previews
+## Previews
 
 Get a glimpse of the sleek design with custom car plate icons, and a variety of cool car backdrops:
 
@@ -24,13 +24,7 @@ Get a glimpse of the sleek design with custom car plate icons, and a variety of 
 
 ---
 
-## 🚀 Features
 
-- **Custom Background**: Immersive JDM/Porsche Cyberpunk backdrop.
-- **Neon Selection Glow**: 9-slice pixmap neon red selection box.
-- **Car Plate Icons**: Unique graphical elements used for the boot selection menu.
-- **Translucent UI Elements**: Carefully adjusted backgrounds to ensure readability without covering the art.
-
-## 🛠️ Installation
+## Installation
 
 *(To be added - e.g., how to copy this folder to `/boot/grub/themes/` and update `/etc/default/grub`)*
