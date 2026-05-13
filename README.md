@@ -47,6 +47,7 @@ Get a glimpse of the sleek design with custom car plate icons, and a variety of 
 
 ✨ ***Enjoyyy*** ✨
 
+***If ur desired name plate is not there pls do raise an issue stating ur OS. I'll be more than happy to add it to the collection. ***
 ---
 
 ## Note
