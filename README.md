@@ -13,11 +13,9 @@
 Get a glimpse of the sleek design with custom car plate icons, and a variety of cool car backdrops:
 
 <div align="center">
-  <img src="Previews/preview_1.png" alt="Preview 1" width="48%" style="border: 2px solid #f3d9d9ff; border-radius: 10px; box-shadow: 0 4px 12px rgba(232, 48, 48, 0.4); margin: 5px;">
-  <img src="Previews/preview_2.png" alt="Preview 2" width="48%" style="border: 2px solid #f3d9d9ff; border-radius: 10px; box-shadow: 0 4px 12px rgba(232, 48, 48, 0.4); margin: 5px;">
-  <br><br>
-  <img src="Previews/preview_3.png" alt="Preview 3" width="48%" style="border: 2px solid #f3d9d9ff; border-radius: 10px; box-shadow: 0 4px 12px rgba(232, 48, 48, 0.4); margin: 5px;">
-  <img src="Previews/preview_4.png" alt="Preview 4" width="48%" style="border: 2px solid #f3d9d9ff; border-radius: 10px; box-shadow: 0 4px 12px rgba(232, 48, 48, 0.4); margin: 5px;">
+  <img src="Previews/Preview_1.png" alt="Preview 1" width="48%" style="border: 2px solid #f3d9d9ff; border-radius: 10px; box-shadow: 0 4px 12px rgba(232, 48, 48, 0.4); margin: 5px;">
+  <img src="Previews/Preview_2.png" alt="Preview 2" width="48%" style="border: 2px solid #f3d9d9ff; border-radius: 10px; box-shadow: 0 4px 12px rgba(232, 48, 48, 0.4); margin: 5px;">
+
 </div>
 
 ---
